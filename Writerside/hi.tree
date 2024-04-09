@@ -10,4 +10,7 @@
         <toc-element topic="PC-Startups-and-DeepFreeze.md"/>
         <toc-element topic="Lab-AV.md"/>
     </toc-element>
+    <toc-element topic="System-Imaging.md">
+        <toc-element topic="Image-Revision-History.md"/>
+    </toc-element>
 </instance-profile>
