@@ -2,8 +2,11 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="hi" name="Help Instance"
+<instance-profile id="hi" name="SoCSTech Docs"
                  start-page="Hello-World.md">
 
     <toc-element topic="Hello-World.md"/>
+    <toc-element topic="Day-to-Day-Checks.md">
+        <toc-element topic="Lab-AV.md"/>
+    </toc-element>
 </instance-profile>
