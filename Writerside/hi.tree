@@ -13,6 +13,9 @@
     </toc-element>
     <toc-element topic="System-Imaging.md">
         <toc-element topic="Image-Revision-History.md"/>
+        <toc-element topic="Windows-Setup.md">
+            <toc-element topic="Installing-Windows.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="DeepFreeze.md"/>
 </instance-profile>
