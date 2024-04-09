@@ -5,7 +5,8 @@ Our Lab AV (if it's still the Extron based system) can be incredibly annoying to
 
 Therefore, it is imperative that we ensure these systems are working correctly - otherwise teaching is severely impacted for that day.
 
-**Due to the fact that we do not manage our AV directly, we are at the mercy of DT (formally known as ICT) to fix it for us.**
+## Gotchas!
+* **Due to the fact that we do not manage our AV directly, we are at the mercy of DT (formally known as ICT) to fix it for us.**
 
 ## Aims
 To ensure that the AV is working correctly in our labs - and identify any issues that will need raising with DT.
