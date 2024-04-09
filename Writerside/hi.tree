@@ -7,6 +7,7 @@
 
     <toc-element topic="Hello-World.md"/>
     <toc-element topic="Day-to-Day-Checks.md">
+        <toc-element topic="PC-Startups-and-DeepFreeze.md"/>
         <toc-element topic="Lab-AV.md"/>
     </toc-element>
 </instance-profile>
