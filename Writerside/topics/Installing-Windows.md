@@ -14,7 +14,11 @@ The key is: `NPPR9-FWDCX-D2C8J-H872K-2YT43` - and can also be found on the share
 new ISO, you won't need to worry about this too much. 
 
 If you do need to make a new ISO - download the Windows Media Creation Tool, and open a terminal in the folder you downloaded it to. 
-In that terminal run `.\MediaCreationTool.exe /Eula Accept /Retail /MediaArch x64 /MediaLangCode en-GB /MediaEdition Enterprise`, the executable will run and ask you 
+In that terminal run: 
+```
+.\MediaCreationTool.exe /Eula Accept /Retail /MediaArch x64 /MediaLangCode en-GB /MediaEdition Enterprise
+``` 
+The executable will run and ask you 
 for the above key. From there, you can create the ISO image and burn a USB using Rufus.
 
 ### Rufus
