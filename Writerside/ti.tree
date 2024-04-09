@@ -2,9 +2,3 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="ti"
-                 name="Testing Instance"
-                 start-page="testing-instance.md">
-
-    <toc-element topic="testing-instance.md"/>
-</instance-profile>
