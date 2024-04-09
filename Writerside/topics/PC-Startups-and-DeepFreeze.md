@@ -1,6 +1,5 @@
 # PC Startups and DeepFreeze
 
-## Overview
 Ok, this really is kinda our Bread-and-Butter, and we need to make sure they're all working correctly. No PCs, no teaching, sad students, crap NSS.
 
 ## Aims

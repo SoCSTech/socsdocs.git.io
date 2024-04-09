@@ -1,6 +1,5 @@
 # Image Revision History
 
-## Overview
 Below is a table of our system images, current and past. **Bold** denotes an image currently in use.
 
 ## Naming Schema

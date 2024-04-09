@@ -1,6 +1,4 @@
 # Lab AV
-
-## Overview
 Our Lab AV (if it's still the Extron based system) can be incredibly annoying to deal with and is very prone to randomly breaking.
 
 Therefore, it is imperative that we ensure these systems are working correctly - otherwise teaching is severely impacted for that day.

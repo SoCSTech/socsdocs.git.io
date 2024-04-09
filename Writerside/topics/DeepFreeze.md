@@ -1,6 +1,5 @@
 # DeepFreeze
 
-## Overview
 DeepFreeze is one of the most critical tools we have in our arsenal.
 
 It has been implemented in our labs to offer a reboot-to-restore functionality to all our student facing machines. That means that everytime a PC is reboot, a clean snapshot is applied to the machine.
