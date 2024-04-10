@@ -10,4 +10,8 @@
         <description>Created after removal of "Overview" from Help Instance</description>
         <accepts>Overview.html</accepts>
     </rule>
+    <rule id="1565f27f">
+        <description>Created after removal of "Windows Local Media Store" from SoCSTech Docs</description>
+        <accepts>Windows-Local-Media-Store.html</accepts>
+    </rule>
 </rules>
