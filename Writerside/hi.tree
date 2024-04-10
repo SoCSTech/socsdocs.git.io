@@ -8,6 +8,7 @@
     <toc-element topic="Hello-World.md"/>
     <toc-element topic="Technician-101.md">
         <toc-element topic="Who-Are-We.md"/>
+        <toc-element topic="Your-Staff-Laptop.md"/>
     </toc-element>
     <toc-element topic="Day-to-Day-Checks.md">
         <toc-element topic="PC-Startups-and-DeepFreeze.md"/>
