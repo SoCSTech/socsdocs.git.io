@@ -14,4 +14,12 @@
         <description>Created after removal of "Windows Local Media Store" from SoCSTech Docs</description>
         <accepts>Windows-Local-Media-Store.html</accepts>
     </rule>
+    <rule id="777773e8">
+        <description>Created after removal of "Mental Health" from SoCSTech Docs</description>
+        <accepts>Mental-Health.html</accepts>
+    </rule>
+    <rule id="1181a755">
+        <description>Created after removal of "Getting Help" from SoCSTech Docs</description>
+        <accepts>Getting-Help.html</accepts>
+    </rule>
 </rules>
