@@ -1,0 +1,3 @@
+# Creating a Linux Partition
+
+Start typing here...
