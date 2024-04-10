@@ -1,4 +1,4 @@
-# Software List
+# Windows Software List
 
 Below is a list of software and versions required by all teaching modules. 
 

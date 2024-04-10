@@ -4,7 +4,7 @@ To actually get anything done, you will obviously need a Computer! However, ther
 on your device. 
 
 The department makes use of Laptops with Ultrawide monitors. This is so we can quickly move locations, work directly 
-in Labs, or work on our Riseholme campus. 
+in Labs, or work on our Riseholme campus.
 
 ## Options
 

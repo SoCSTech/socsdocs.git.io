@@ -8,8 +8,7 @@
     <toc-element topic="Hello-World.md"/>
     <toc-element topic="Technician-101.md">
         <toc-element topic="Who-Are-We.md"/>
-        <toc-element topic="Your-Staff-Laptop.md">
-        </toc-element>
+        <toc-element topic="Your-Staff-Laptop.md"/>
         <toc-element topic="1Password.md"/>
         <toc-element topic="DeepFreeze-Account.md"/>
         <toc-element topic="HR-Matters.md"/>
@@ -20,10 +19,16 @@
     </toc-element>
     <toc-element topic="System-Imaging.md">
         <toc-element topic="Image-Revision-History.md"/>
-        <toc-element topic="Windows-Setup.md">
-            <toc-element topic="Installing-Windows.md"/>
-            <toc-element topic="Software-List.md"/>
-        </toc-element>
+        <toc-element topic="Software-List.md"/>
+        <toc-element topic="Windows-Updates.md"/>
+        <toc-element topic="Windows-Settings.md"/>
+        <toc-element topic="Win-SW-Instructions.md"/>
+        <toc-element topic="Windows-Local-Media.md"/>
     </toc-element>
     <toc-element topic="DeepFreeze.md"/>
+    <toc-element topic="Staff-Research-Device-Setup.md">
+        <toc-element topic="Windows-Setup.md">
+            <toc-element topic="Installing-Windows.md"/>
+        </toc-element>
+    </toc-element>
 </instance-profile>
