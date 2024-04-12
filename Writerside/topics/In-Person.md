@@ -15,7 +15,7 @@ You’ll be greeted with the search page. To find the mandatory training, select
 
 ![image_3.png](image_3.png)
 
-The mandatory training that you can book onto will be listed below. Find the training that you want to attend and click on the name of it where it’s underlined.
+The mandatory training that you can book onto will be listed below. Find the training that you want to attend and click on the name of it where it’s underlined. For other types of non-mandatory training, just choose whatever topic you're looking for. The instructions from here are the same no matter what type it is!
 
 ![image_4.png](image_4.png)
 

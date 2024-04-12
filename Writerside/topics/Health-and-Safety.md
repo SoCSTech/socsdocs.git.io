@@ -5,10 +5,10 @@ There are certain health and safety regulations that you’ll need to familiaris
 Your line manager or peer mentor should give you a health and safety induction and help you out with any of the documents needed. If you haven’t been given this, don’t be afraid to ask about it or chase it up. More details about the induction can be found at https://universityoflincoln.sharepoint.com/sites/HS/Induction/Pages/Default.aspx
 
 ## Health Surveillance Risk Assessment- 
-A Health Surveillance Risk Assessment must be completed for every staff member and researcher. This is an assessment of any risks the staff member or PGR is likely to face in their work and acknowledges how those risks are mitigated. More details, plus the form itself, can be found at https://universityoflincoln.sharepoint.com/sites/HS/Surveillance/SitePages/Home.aspx. 
+A Health Surveillance Risk Assessment **must be completed for every staff member and researcher**. This is an assessment of any risks the staff member or PGR is likely to face in their work and acknowledges how those risks are mitigated. More details, plus the form itself, can be found at https://universityoflincoln.sharepoint.com/sites/HS/Surveillance/SitePages/Home.aspx. 
 
 ## Display Screen Equipment
-If you spend time in front of a screen during work, you’ll have to fill out a DSE (display screen equipment) form. The form, alongside more information about DSE, can be found at
+If you spend time in front of a screen during work, **you’ll have to fill out a DSE (display screen equipment) form**. The form, alongside more information about DSE, can be found at
 https://universityoflincoln.sharepoint.com/sites/HS/DSE/Pages/Default.aspx
 
 ## Lone Working Policy
