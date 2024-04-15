@@ -14,7 +14,13 @@
         <toc-element topic="HR-Matters.md">
             <toc-element topic="MyView.md">
                 <toc-element topic="Accessing-PaySlips.md"/>
-                <toc-element topic="Booking-Leave.md"/>
+                <toc-element topic="Booking-Leave.md">
+                    <toc-element topic="Holiday.md"/>
+                    <toc-element topic="TOIL.md"/>
+                    <toc-element topic="Sickness.md"/>
+                    <toc-element topic="Other-Types-of-Leave.md"/>
+                    <toc-element topic="Viewing-Your-Leave.md"/>
+                </toc-element>
             </toc-element>
             <toc-element topic="Mandatory-Training.md">
                 <toc-element topic="In-Person.md"/>
