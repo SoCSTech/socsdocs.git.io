@@ -1,3 +1,3 @@
 # Accessing PaySlips
 
-Start typing here...
+Your payslips can be found on MyView.
