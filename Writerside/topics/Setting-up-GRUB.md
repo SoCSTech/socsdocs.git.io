@@ -1,0 +1,3 @@
+# Setting up GRUB
+
+Start typing here...
