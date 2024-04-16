@@ -14,4 +14,8 @@
         <description>Created after removal of "Windows Local Media Store" from SoCSTech Docs</description>
         <accepts>Windows-Local-Media-Store.html</accepts>
     </rule>
+    <rule id="679c8b1">
+        <description>Created after removal of "Installing Linux" from SoCSTech Docs</description>
+        <accepts>Installing-Linux.html</accepts>
+    </rule>
 </rules>
