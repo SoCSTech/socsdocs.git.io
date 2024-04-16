@@ -1,3 +1,0 @@
-# Installing Linux
-
-Start typing here...
