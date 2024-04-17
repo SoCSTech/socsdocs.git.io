@@ -1,3 +1,4 @@
 # Capturing and Deploying Images using CloneZilla
 
-Start typing here...
+CloneZilla is the software we use to deploy the master image across the labs. This
+Subsection will cover all the different ways CloneZilla can be used.
