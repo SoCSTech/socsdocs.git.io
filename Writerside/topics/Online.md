@@ -1,4 +1,4 @@
-# Online
+# Online Training
 
 There are a number of courses that are mandatory for all staff to complete. 
 

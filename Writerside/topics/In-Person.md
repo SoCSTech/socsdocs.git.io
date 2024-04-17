@@ -1,4 +1,4 @@
-# In-Person
+# In-Person Training
 Some of the mandatory training you'll have to complete will be conducted face to face. This page will go through how to book onto this training. This is the same process you'll use when booking non-mandatory training, like Fire Marshall training or personal development courses. We'll go over optional training more in the next section.
 ## How to book your in-person training
 
