@@ -13,7 +13,11 @@ In the box titled 'Manage Annual Leave', press on the drop-down menu titled 'Req
 
 Choose the option that says 'Notify new sickness'. 
 
+![image_10.png](image_10.png)
+
 A new box will  appear where you'll enter the details of your sickness absence. Enter first date you were off work sick, to the last day you were off work sick. 
+
+![image_23.png](image_23.png)
 
 Select the reason for your absence on the drop-down list next to 'Reason', such as 'virus', 'self-isolating' or 'migraine'.
 
@@ -23,6 +27,8 @@ Leave the remaining boxes, if they need to be filled in your line manager can do
 
 You will have to press 'Confirm planned work time' and then 'Save', then you will be able to press submit. 
 
+![image_24.png](image_24.png)
+
 It will appear on your record once your line manager approves it.
 
 ## Filling Out Self-Certification Form
@@ -30,13 +36,17 @@ As well as adding your sick leave to MyView, you'll also have to fill in a Sickn
 
 The form is simple to fill out. In the first section, enter your surname, forename(s), job title.
 
+![image_26.png](image_26.png)
+
 In the second section, enter your department/school, whether you're full or part-time, and enter you regular work hours (basically how many hours you're schedules to work each day).
+
+![image_27.png](image_27.png)
 
 In the third section, enter the first day of your absence and if it was a full or part day. Then, enter the last day of your absence.
 
 In 'Reason for Absence', give a brief description of why you were off. It doesn't have to be paragraphs, but needs to be more detailed than just 'wasn't feeling well'.
 
-On 'Date Actually Returned to Work, enter the day that you were first back in work after being ill and whether it was a full or part day.
+For 'Date Actually Returned to Work', enter the day that you were first back in work after being ill and whether it was a full or part day.
 
 Under 'Last Day of Illness', put down the last day you were ill. This is different from the day you returned to work as, for example, your last day of being ill may have been a Saturday but your day of returning to work would obviously have been the Monday.
 
@@ -44,9 +54,11 @@ If the absence was due to an accident at work, say yes in the next box. If it wa
 
 In the last box, just state yes or no to whether the absence was due to pregnancy or disability reasons, and if so which one of those it was due to. Otherwise, say no.
 
+![image_28.png](image_28.png) 
+
 Finally, sign and date it. It's a good idea to have a digital signature saved on your work PC for things like this, otherwise you can print it to sign it and then scan it back in. There's also software you can use for signing things electronically, which you can look into if that's easier for you. 
 
-The date should be the date that you're filling in the form, regardless of when the absence that the form is regarding was. 
+NOTE: The date should be the date that you're filling in the form, regardless of when the absence that the form is regarding was. 
 
 ## Longer-Term Sickness
 If you're ill with a long-term condition, it will fall under Occupational Health and there are other processes you'll go through instead of the ones discussed in this article.
