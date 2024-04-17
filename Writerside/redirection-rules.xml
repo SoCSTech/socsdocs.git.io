@@ -22,4 +22,8 @@
         <description>Created after removal of "Getting Help" from SoCSTech Docs</description>
         <accepts>Getting-Help.html</accepts>
     </rule>
+    <rule id="41010b79">
+        <description>Created after removal of "Staff Rotas" from SoCSTech Docs</description>
+        <accepts>Staff-Rotas.html</accepts>
+    </rule>
 </rules>

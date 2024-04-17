@@ -2,6 +2,7 @@
 
 There are multiple avenues to get help if you're struggling with your mental health for any reason, which we'll explore in on this page. Details of all wellbeing options can be found on the HR Wellbeing hub website ([HR Wellbeing Information](https://hr.lincoln.ac.uk/wellbeing/)).
 
+You can also speak to your line manager, a colleague, or whoever you feel comfortable with.
 Don’t hesitate to use what’s available to you and reach out if you need to.
 
 ## The Employee Assistance Programme (EAP) 
