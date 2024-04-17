@@ -1,8 +1,11 @@
 # Docker on socs-web01
 
 We make extensive use of Docker on the Server and in the School too. Docker powers our sites, services and some of the 
-student projects on this server! We recommend you get yourself comfortable with the idea of using Docker before proceeding 
-to make any changes to it on `socs-web01`.
+student projects on this server! 
+
+There will be a section added soon to discuss Docker a little more. 
+We recommend you get yourself comfortable with the idea of using Docker before proceeding to make any changes to it on 
+`socs-web01`.
 
 ## Gotchas!
 * **You may find that after a reboot not all services are back up and running - these will need manually starting again!**
