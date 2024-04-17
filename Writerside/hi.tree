@@ -51,6 +51,7 @@
         </toc-element>
     <toc-element topic="Servers-and-Remote-Storage.md">
         <toc-element topic="socs-web01.md"/>
+        <toc-element topic="Logging-In.md"/>
         <toc-element topic="socs-nas01.md"/>
         <toc-element topic="socs-nas02.md"/>
         <toc-element topic="Coltrane.md"/>
