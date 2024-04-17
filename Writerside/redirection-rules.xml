@@ -18,11 +18,13 @@
         <description>Created after removal of "Installing Linux" from SoCSTech Docs</description>
         <accepts>Installing-Linux.html</accepts>
     </rule>
-    <rule id="4a4dc30b">
+
+    <rule id="6fa55eb">
         <description>Created after removal of "Installing Windows" from SoCSTech Docs</description>
         <accepts>Installing-Windows.html</accepts>
     </rule>
-    <rule id="6c5af7ac">
+
+    <rule id="2f4646e2">
         <description>Created after removal of "Windows Setup" from SoCSTech Docs</description>
         <accepts>Windows-Setup.html</accepts>
     </rule>
