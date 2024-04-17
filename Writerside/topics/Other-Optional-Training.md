@@ -10,10 +10,10 @@ This training will likely be mandatory for a technician, but still check with yo
 
 
 ## Fire Marshall 
-Fire marshals are responsible for helping in the event of a fire.
+Fire marshals are responsible for helping in the event of a fire. It's an optional role, though it is good if there's at least 1 fire marshall for each floor. 
 
 ## First Aid
 Being a first-aider is a big responsibility, but it's also an important role to fill. Also, you if you become a first-aider you get a bonus in your pay. 
 
 ## Other personal development courses
-On MyView, as well as mandatory in-person training, there are also a wide range of other courses covering topics such as confidence in the workplace, leadership, inclusivity, and many others. 
+On MyView, as well as mandatory in-person training, there are also a wide range of other courses covering topics such as confidence in the workplace, leadership, inclusivity, and many others. To see how to book onto this type on in-person training, [see here](In-Person.md). 
