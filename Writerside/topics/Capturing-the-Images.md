@@ -1,3 +1,2 @@
 # Capturing the Images
 
-Start typing here...

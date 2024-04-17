@@ -7,6 +7,7 @@ The lock screen wallpaper, desktop wallpaper, and profile picture icons we use f
 ## Wallpaper Content
 
 The wallpaper design is up to you, but it should always include the following useful contacts the University of Lincoln logo, and the image version.
+There are templates for wallpapers in the SoCSTech Canva organisation.
 
 | Department                        | Contact               |
 |-----------------------------------|-----------------------|
