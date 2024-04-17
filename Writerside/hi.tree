@@ -41,19 +41,38 @@
     <toc-element topic="System-Imaging.md">
         <toc-element topic="Image-Revision-History.md"/>
         <toc-element topic="Software-List.md"/>
-        <toc-element topic="Windows-Updates.md"/>
-        <toc-element topic="Windows-Settings.md"/>
-        <toc-element topic="Win-SW-Instructions.md"/>
-        <toc-element topic="Windows-Local-Media.md"/>
+        <toc-element topic="Linux-Software-List.md"/>
+        <toc-element topic="Creating-a-Fresh-Image.md">
+            <toc-element topic="Understanding-Imaging-and-Master-Machines.md"/>
+            <toc-element topic="Installing-Fresh-Windows-11.md"/>
+            <toc-element topic="Creating-a-Linux-Partition.md"/>
+            <toc-element topic="Windows-Updates.md"/>
+            <toc-element topic="Windows-Settings.md"/>
+            <toc-element topic="Windows-Local-Media.md"/>
+            <toc-element topic="Win-SW-Instructions.md"/>
+            <toc-element topic="Linux-Updates.md"/>
+            <toc-element topic="Linux-Settings.md"/>
+            <toc-element topic="Linux-Local-Media.md"/>
+            <toc-element topic="Linux-Software-Instructions.md"/>
+            <toc-element topic="Setting-up-GRUB.md"/>
+            <toc-element topic="Conducting-Image-Testing.md"/>
+        </toc-element>
+        <toc-element topic="Deploying-Images-using-CloneZilla.md">
+            <toc-element topic="Capturing-the-Images.md"/>
+            <toc-element topic="CloneZilla-Direct-Imaging.md"/>
+            <toc-element topic="CloneZilla-Server-Imaging.md"/>
+            <toc-element topic="CloneZilla-P2P-Imaging.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="DeepFreeze.md"/>
     <toc-element topic="Staff-Research-Device-Setup.md">
     </toc-element>
-        <toc-element topic="Windows-Setup.md">
-            <toc-element topic="Installing-Windows.md"/>
-        </toc-element>
     <toc-element topic="Servers-and-Remote-Storage.md">
-        <toc-element topic="socs-web01.md"/>
+        <toc-element topic="socs-web01.md">
+            <toc-element topic="Logging-In.md"/>
+            <toc-element topic="Updates-and-Maintenance.md"/>
+            <toc-element topic="Docker-on-socs-web01.md"/>
+        </toc-element>
         <toc-element topic="socs-nas01.md"/>
         <toc-element topic="socs-nas02.md"/>
         <toc-element topic="Coltrane.md"/>

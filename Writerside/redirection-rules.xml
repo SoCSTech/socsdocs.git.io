@@ -25,5 +25,18 @@
     <rule id="41010b79">
         <description>Created after removal of "Staff Rotas" from SoCSTech Docs</description>
         <accepts>Staff-Rotas.html</accepts>
+    <rule id="679c8b1">
+        <description>Created after removal of "Installing Linux" from SoCSTech Docs</description>
+        <accepts>Installing-Linux.html</accepts>
+    </rule>
+
+    <rule id="6fa55eb">
+        <description>Created after removal of "Installing Windows" from SoCSTech Docs</description>
+        <accepts>Installing-Windows.html</accepts>
+    </rule>
+
+    <rule id="2f4646e2">
+        <description>Created after removal of "Windows Setup" from SoCSTech Docs</description>
+        <accepts>Windows-Setup.html</accepts>
     </rule>
 </rules>
