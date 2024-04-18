@@ -1,3 +1,5 @@
 # Accessing PaySlips
 
-Your payslips can be found on MyView.
+One key functionality of MyView is the ability to view your payslips and over pay-related documents. 
+
+This page will show you how you can view and download these documents.
