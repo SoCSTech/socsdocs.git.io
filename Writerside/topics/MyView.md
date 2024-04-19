@@ -2,11 +2,11 @@
 
 MyView is the University’s employee and manager self-serve provision, giving you the ability to view/amend your personal data, book leave, and view payslips. 
 
-If you have any issues with MyView that these documents don't cover, you can email payrollservices@lincoln.ac.uk to get support.
+If you have any issues with MyView that these documents don't cover, you can email _payrollservices@lincoln.ac.uk_ to get support.
 
 ## Accessing MyView
 
-To access MyView, go to https://hr.lincoln.ac.uk/hrselfservice/ and click on the big colourful button that says 'Click here to log in to MyView'. 
+To access MyView, go to [this page](https://hr.lincoln.ac.uk/hrselfservice/) and click on the big colourful button that says 'Click here to log in to MyView'. 
 
 ![image_21.png](image_21.png)
 
