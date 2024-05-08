@@ -33,8 +33,8 @@
             <toc-element topic="Physical-Health.md"/>
             <toc-element topic="Mental-Health.md"/>
         </toc-element>
+        <toc-element topic="Staff-Rotas.md"/>
     </toc-element>
-    <toc-element topic="Staff-Rotas.md"/>
     <toc-element topic="Day-to-Day-Checks.md">
         <toc-element topic="PC-Startups-and-DeepFreeze.md"/>
         <toc-element topic="Lab-AV.md"/>
