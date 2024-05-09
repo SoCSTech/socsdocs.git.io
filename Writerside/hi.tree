@@ -35,6 +35,10 @@
         </toc-element>
         <toc-element topic="Staff-Rotas.md"/>
     </toc-element>
+    <toc-element topic="Devices.md">
+        <toc-element topic="VR-Headsets.md"/>
+        <toc-element topic="Phones.md"/>
+    </toc-element>
     <toc-element topic="Day-to-Day-Checks.md">
         <toc-element topic="PC-Startups-and-DeepFreeze.md"/>
         <toc-element topic="Lab-AV.md"/>
