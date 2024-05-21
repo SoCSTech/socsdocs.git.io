@@ -38,6 +38,20 @@
         <toc-element topic="PC-Startups-and-DeepFreeze.md"/>
         <toc-element topic="Lab-AV.md"/>
     </toc-element>
+    <toc-element topic="Rooms-We-Manage.md">
+        <toc-element topic="INB3102.md"/>
+        <toc-element topic="INB3123.md"/>
+        <toc-element topic="INB3235.md"/>
+        <toc-element topic="INB2305.md"/>
+        <toc-element topic="INB2102.md"/>
+        <toc-element topic="INB1305.md"/>
+        <toc-element topic="INB1304.md"/>
+        <toc-element topic="INB1101.md"/>
+        <toc-element topic="INB1301.md"/>
+        <toc-element topic="INB1102.md"/>
+        <toc-element topic="INB0104.md"/>
+        <toc-element topic="INB0108.md"/>
+    </toc-element>
     <toc-element topic="System-Imaging.md">
         <toc-element topic="Image-Revision-History.md"/>
         <toc-element topic="Software-List.md"/>
