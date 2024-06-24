@@ -21,7 +21,7 @@ The service includes:
 
 The services can be accessed online and by phone. The information can all be found on the information link above, but can also be found here for ease of access.
 
-Services can be accessed online at _carefirst-lifestyle.co.uk_ (username "University", password "Lincoln")
+Services can be accessed online [here](https://carefirst-lifestyle.co.uk/) (username "University", password "Lincoln").
 
 Services can be accessed via phone at number 0808 168 2143
 

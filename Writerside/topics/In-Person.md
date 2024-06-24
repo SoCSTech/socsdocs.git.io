@@ -1,8 +1,9 @@
 # In-Person Training
 Some of the mandatory training you'll have to complete will be conducted face to face. This page will go through how to book onto this training. This is the same process you'll use when booking non-mandatory training, like Fire Marshall training or personal development courses. We'll go over optional training more in the next section.
+
 ## How to book your in-person training
 
-Training courses can be booked through MyView. To do this, first go to _hr.lincoln.ac.uk/hrselfservice/_. Once you’re on the site, you’ll see this screen. Click where it says ‘Click here to log in to MyView’. 
+Training courses can be booked through MyView. For how to access MyView, see [here](MyView.md). 
 
 ![image_1.png](image_1.png)
 
@@ -11,7 +12,7 @@ If prompted, log in with your university email and password. Once you’re logge
 
 ![image_2.png](image_2.png)
 
-You’ll be greeted with the search page. To find the mandatory training, select ‘Mandatory’ from the drop down menu ‘Type’. Once you’ve selected this, press search. 
+You’ll be greeted with the search page. To find the mandatory training, select ‘Mandatory’ from the drop-down menu ‘Type’. Once you’ve selected this, press search. 
 
 ![image_3.png](image_3.png)
 
