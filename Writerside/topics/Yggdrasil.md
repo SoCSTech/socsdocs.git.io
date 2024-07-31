@@ -2,6 +2,12 @@
 
 Yggdrasil is the frontend timetable component for the signage screens around the building. It collects its data from [asgard](Asgard.md) and displays the data in the most effective way.
 
+## Day to Day
+
+![y2-room-display.png](y2-room-display.png)
+
+![y2-group-display.png](y2-group-display.png)
+
 ## Development
 
 First, you'll need to clone the repo [SoCSTech/yggdrasil-revamp](https://github.com/SoCSTech/yggdrasil-revamp).

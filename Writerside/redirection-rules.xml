@@ -39,4 +39,8 @@
         <description>Created after removal of "Windows Setup" from SoCSTech Docs</description>
         <accepts>Windows-Setup.html</accepts>
     </rule>
+    <rule id="66a0a5ad">
+        <description>Created after removal of "Traefik" from SoCSTech Docs</description>
+        <accepts>Traefik.html</accepts>
+    </rule>
 </rules>
