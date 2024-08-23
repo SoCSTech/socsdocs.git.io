@@ -29,3 +29,4 @@ There are some additional tests we must conduct that won't directly be found by 
 * Oculus App is Signed In
 * Epic Games Launcher is Signed In
 * Docker Desktop is Set Up
+* There will be more as this changes every year. Keep records of requests and be thorough.
