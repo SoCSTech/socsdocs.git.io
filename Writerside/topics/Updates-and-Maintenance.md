@@ -2,12 +2,12 @@
 
 ## Updates and Distribution Upgrades
 
-We aim to have `socs-web01` as frequently updated as possible. See the table below for ideal timeframes:
+We aim to have `seps-app01` as frequently updated as possible. See the table below for ideal timeframes:
 
-| Trigger                               | Timeframe to update                             |
-|---------------------------------------|-------------------------------------------------|
-| Weekly Updating Schedule              | On every Tuesday morning, in line with Lab PCs. |
-| Discovery of Zero-Day Vulnerabilities | As soon as a hotfix is released.                |
+| Trigger                               | Timeframe to update                            |
+|---------------------------------------|------------------------------------------------|
+| Weekly Updating Schedule              | On every Friday morning, in line with Lab PCs. |
+| Discovery of Zero-Day Vulnerabilities | As soon as a hotfix is released.               |
 
 ### Updates via `apt`
 
@@ -19,8 +19,7 @@ Check with the Image maintainer for any released updates, however we typically o
 
 ### Distribution Upgrades
 
-We run `socs-web01` on the Non-LTS Ubuntu Release Branch, which means we will be updating the distribution every April and 
-October - that's when the new major versions of Ubuntu release!
+We run `seps-app01` on the LTS Ubuntu Release Branch, which means we will be updating the distribution once it is available.
 
 To upgrade the distribution, leave it a few days after it has been released. Most bugs will have been caught by the community
 and most likely already fixed. After that period has elapsed, you will need to *physically* log in to the Server. Once

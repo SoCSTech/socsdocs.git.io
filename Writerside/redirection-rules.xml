@@ -25,6 +25,7 @@
     <rule id="41010b79">
         <description>Created after removal of "Staff Rotas" from SoCSTech Docs</description>
         <accepts>Staff-Rotas.html</accepts>
+    </rule>
     <rule id="679c8b1">
         <description>Created after removal of "Installing Linux" from SoCSTech Docs</description>
         <accepts>Installing-Linux.html</accepts>
@@ -42,5 +43,9 @@
     <rule id="66a0a5ad">
         <description>Created after removal of "Traefik" from SoCSTech Docs</description>
         <accepts>Traefik.html</accepts>
+    </rule>
+    <rule id="61f98d37">
+        <description>Created after removal of "Arcademia Leaderboard" from SoCSTech Docs</description>
+        <accepts>Arcademia-Leaderboard.html</accepts>
     </rule>
 </rules>

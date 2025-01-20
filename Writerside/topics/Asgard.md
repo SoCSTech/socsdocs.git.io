@@ -1,6 +1,8 @@
 # Asgard
 
-Asgard is the backend timetabling engine that provides content to [yggdrasil](Yggdrasil.md), 
+Asgard is the name for the microservices that build the computing lab experience.
+
+The main part of it is that it's the backend timetabling engine that provides content to [yggdrasil](Yggdrasil.md), 
 it acts as a data aggregator and single point of truth to all display content.
 
 More specifically we are using it to combine the data we get from multiple sources such as the UoL Timetable, Internet Calendars, Microsoft Bookings and Manually created events.
@@ -47,22 +49,10 @@ The asgard homepage is the page you will land onto first, it is a quick overview
 
 ![asgard-timetable-groups.png](asgard-timetable-groups.png)
 
-## System Design
-tbd...
-
 ## Development
 
-tbd: discuss the other components and break down into subsections for api/y2/admin/etc.
-
-The asgard api service is an express api, built with Josh's starter template. It is written in TypeScript and runs using Express and Node.
-
-The development documentation is available in the repositories `README`, but a light overview is that;
-
-- The project has been built in a devcontainer, which will automatically launch a `docker compose` file when you open the project in Visual Studio Code. This will provide you with an empty database which you will need to add an initial user account manually, and then create the games that you want to use for testing using an authenticated session state - this is best done using a tool such as [Postman](https://www.postman.com/), a collection has been provided in the repo.
-
-- And the system has been designed around the idea of 'Model-View-Controllers', however we are removing the 'View' aspect and are directly returning JSON from the controller. Each new controller must have a route, which is registered in the `src/server.ts` file.
-
+All development documentation is in the [GitHub Wiki in the Asgard Repo](https://github.com/SoCSTech/asgard/wiki).
 
 ## Deployment
 
-Tbd....
+Asgard is currently deployed onto the SEPS-APP01
