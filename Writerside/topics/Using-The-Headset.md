@@ -26,5 +26,5 @@ Once you've set your boundary, your surroundings will change from the real world
 
 If you move and want the menu to be re-centred, hold down the button on the right controller and the menu will be centered in front of where you're currently looking.
 
-When you want to turn off the headset, simply hold down the power button on the right side of the headset until power options come up. You can choose to shutdown or reset. 
+When you want to turn off the headset, simply hold down the power button on the right side of the headset until power options come up. You can choose to shut down or reset. 
 You may also have the option to update before it shuts down or reset. 

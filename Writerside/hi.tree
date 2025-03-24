@@ -40,7 +40,10 @@
             <toc-element topic="Using-The-Headset.md"/>
             <toc-element topic="VR-Troubleshooting.md"/>
         </toc-element>
-        <toc-element topic="Phones.md"/>
+        <toc-element topic="Phones.md">
+            <toc-element topic="Offer-Holder-Open-Days.md"/>
+            <toc-element topic="Setting-Up.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="Day-to-Day-Checks.md">
         <toc-element topic="PC-Startups-and-DeepFreeze.md"/>
