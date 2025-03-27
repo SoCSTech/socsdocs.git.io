@@ -19,7 +19,7 @@
 - Choose 'from-image'
 - Choose the correct image
 - Choose to skip the checks
-- Choose what the PC will do when the image is done- either reboot, or choose.
+- Choose what the PC will do when the image is done - either reboot, or choose.
   Choose is useful when in a lab where you want the PC to look unusable after the imaging if you don't want students to use it.
   However, reboot will just reboot the PC and leave it on the Windows log in screen.
 - Choose 'multicast'
