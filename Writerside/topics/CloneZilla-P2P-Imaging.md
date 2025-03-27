@@ -11,7 +11,7 @@
 - Choose options 'level-dev'
 - Press enter on the next few options until the long list of options
 - Choose 'restore disk'
-- Choose the portable harddrive from the options
+- Choose the portable hard drive from the options
 - Choose the correct image from the drive
 - Choose what the PC will do when the image is done- either reboot, or choose.
   Choose is useful when in a lab where you want the PC to look unusable after the imaging if you don't want students to use it.
