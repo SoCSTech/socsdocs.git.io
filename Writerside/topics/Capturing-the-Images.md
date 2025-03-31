@@ -14,7 +14,7 @@ Next, choose ‘local-dev’ as we'll be saving to a local device (a.k.a. a port
 ![image_51.png](image_51.png)
 
 Make sure that the drive you want the image saved to is plugged into the PC. 
-The next screen should be black with a list of devices - make sure you can see your drive listed (it will likely start with 'sdb' and have key works like 'SSD' in it).
+The next screen should be black with a list of devices — make sure you can see your drive listed (it will likely start with 'sdb' and have key works like 'SSD' in it).
 
 If you see it, you can press Ctrl-C to close this menu and continue the process.
 
@@ -24,7 +24,7 @@ On the next screen you're choosing where the image will be saved, so choose your
 
 Choose to skip the file system check (option 'no fsck').
 
-The next screen should show the files currently inside your drive. If this looks correct, use the right arrow key to move to select 'done'
+The next screen should show the files currently inside your drive. If this looks correct, use the right arrow key to move to select 'done'.
 
 Next, choose Beginner mode.
 
@@ -32,7 +32,7 @@ On the next screen, select 'savedisk' as we'll be saving the entire disk image.
 
 Next, you'll be prompted to name the image (for naming conventions see [this page](Image-Revision-History.md)). When you're done, choose 'ok'.
 
-It will prompt you again to choose a local disk as a source - again, choose your drive.
+It will prompt you again to choose a local disk as a source — again, choose your drive.
 
 When asked what compression option to use, choose '-z1p'.
 
@@ -53,13 +53,13 @@ Choose is always a safe option as the blue on the screen makes it very obvious t
 
 Select whichever option would best suit your needs. 
 
-Finally press enter when prompted to continue. It will ask if you're sure you're want to continue - type 'y' and press enter to do so.
+Finally press enter when prompted to continue. It will ask if you're sure you're want to continue — type 'y' and press enter to do so.
 
 It will then start the process of saving the image, and at this point all you need to do is wait. 
 
 ![image_54.png](image_54.png)
 
-If it's successful, it will do whatever you chose previously. If you chose 'Choose', it will come up with a black screen when done. If you press Enter, 
+If it's successful, it will do whatever you chose previously. If you chose 'Choose', it will come up with a black screen when done. When you press Enter, 
 you will be given options on what to do next as described previously. 
 
 Your image should now be saved to your Portable SSD! Yay!
