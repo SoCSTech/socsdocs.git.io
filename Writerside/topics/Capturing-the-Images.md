@@ -18,27 +18,49 @@ The next screen should be black with a list of devices — make sure you can see
 
 If you see it, you can press Ctrl-C to close this menu and continue the process.
 
+![image_60.png](image_60.png)
+
 On the next screen you're choosing where the image will be saved, so choose your portable SSD (usually the bottom option).
 
 ![image_52.png](image_52.png)
 
 Choose to skip the file system check (option 'no fsck').
 
+![image_61.png](image_61.png)
+
 The next screen should show the files currently inside your drive. If this looks correct, use the right arrow key to move to select 'done'.
+
+![image_62.png](image_62.png)
 
 Next, choose Beginner mode.
 
+![image_63.png](image_63.png)
+
 On the next screen, select 'savedisk' as we'll be saving the entire disk image.
+
+![image_64.png](image_64.png)
 
 Next, you'll be prompted to name the image (for naming conventions see [this page](Image-Revision-History.md)). When you're done, choose 'ok'.
 
+![image_65.png](image_65.png)
+
 It will prompt you again to choose a local disk as a source — again, choose your drive.
+
+![image_66.png](image_66.png)
 
 When asked what compression option to use, choose '-z1p'.
 
+![image_67.png](image_67.png)
+
 Choose to skip the check of source file system by choosing '-sfsck'
 
+![image_68.png](image_68.png)
+
 Choose to skip checking the saved image (-scs), and not to encrypt the image (-senc).
+
+![image_69.png](image_69.png)
+
+![image_70.png](image_70.png)
 
 The last major step is choosing what action should be performed when everything is finished.
 
