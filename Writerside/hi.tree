@@ -74,8 +74,8 @@
             <toc-element topic="CloneZilla-Server-Imaging.md"/>
             <toc-element topic="CloneZilla-P2P-Imaging.md"/>
         </toc-element>
+        <toc-element topic="Setting-Up-PC-Post-Imaging.md"/>
     </toc-element>
-    <toc-element topic="Setting-Up-PC-Post-Imaging.md"/>
     <toc-element topic="DeepFreeze.md">
         <toc-element topic="Deploying-DeepFreeze.md"/>
         <toc-element topic="Policies.md"/>
