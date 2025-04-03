@@ -8,7 +8,7 @@ main dashboard by clicking the 'Install Cloud Agent' button.
 ![DownloadInstaller.png](DownloadInstaller.png)
 
 From this page, a group should be selected, which will have an enforced policy. In this case, the 1A
-group is selected which has the 'Computing' policy enforced.
+group is selected, which has the 'Computing' policy enforced.
 
 When you first install this time it will be named something generic,
 so make sure to name it something simple like that, so '1a' for lab 1A,'1b' for lab 1B, etc.
