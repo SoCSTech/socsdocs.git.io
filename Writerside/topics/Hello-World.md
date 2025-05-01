@@ -2,7 +2,7 @@
 
 Hello! This is a handy little guide with the intention of sharing knowledge from old Computing Technicians to new ones!
 
-Use the sidebar to flick through topics in which you may need some help!
+Use the sidebar to flick through topics in which you may need some help! Or you can upload the generated [llms.txt file](https://docs.socstech.support/llms.txt) to ask questions with [Microsoft Copilot](https://copilot.cloud.microsoft) or other LLM.
 
 It should be expected that some of the information provided within this documentation here will be out of date by the time that you are reading this - but we will try to keep this as up to date as we can!
 

@@ -2,6 +2,8 @@
 
 Below is a list of software and versions required by all teaching modules. 
 
+You should recapture this for each semester to ensure that nothing has changed!
+
 | Software                                                    | Version       | Module                           |
 |-------------------------------------------------------------|---------------|----------------------------------|
 | Android Studio                                              | Latest        | Cross-Platform Development & OHD |

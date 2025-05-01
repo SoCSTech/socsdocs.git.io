@@ -27,7 +27,9 @@ Close this, we do not need to log in. Go back to the Wi-Fi page, and press the c
 In the network settings, go to where it says 'randomise device mac address'. Press this, and instead choose 'use device mac address'.
 
 The device mac address of the phone is authorised for Visitor Wi-Fi, so once the correct mac address is being used, the networks recognises the device, and you should now be connected to the Wi-Fi.
-If there are issues with this, and you're not connected after doing this change, contact DT to get the MAC address authorised.
+If there are issues with this, and you're not connected after doing this change, contact DT to get the MAC address authorised providing them with; the wifi mac address, the device asset number, serial number, and kit number.
+
+They may ask some questions about why they need registering, this has been explained previously but the general idea is that they are used by a group of general people, and they need to be checked out before they're handed out. There is a QR code on top of the phone which does this against a Microsoft List. (For long term loans, you would likely check this out on Snipe-IT as well.)
 
 ### Put Phone Into Developer Mode
 Once the set-up is done, we need to turn on developer mode and USB debugging so that the Offer Holder Day/Open Day activities can be run on the phone.
