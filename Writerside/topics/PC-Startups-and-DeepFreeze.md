@@ -6,7 +6,7 @@ Ok, this really is kinda our Bread-and-Butter, and we need to make sure they're 
 To ensure all PCs are starting up and working correctly, and that DeepFreeze is correctly communicating with them.
 
 ## Gotchas!
-* **WoL (as of the time of writing) doesn't work correctly in INB2102/2B - you'll have to run around manually**
+* **WoL (as of the time of writing) doesn't work correctly ~~in INB2102/2B~~ anywhere - you'll have to run around manually**
 
 ## Procedure 
 * Log in to DeepFreeze and navigate to the "Computers" tab

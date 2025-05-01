@@ -11,7 +11,7 @@ A full list of software requirements must first be collected from academics by s
 an all school email well in advance with multiple reminders. The Senior Technician is responsible for this task, unless
 delegated.
 
-* Locate the SATA Master Machine
+* Locate the Oldest (or SATA) Master Machine
 * Install a fresh copy of Windows 11
 * Create a partition for Linux
 * Update Windows, configure Windows settings, and set wallpapers

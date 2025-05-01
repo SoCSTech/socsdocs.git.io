@@ -2,12 +2,11 @@
 
 The lock screen wallpaper, desktop wallpaper, and profile picture icons we use for the lab computers are all stored locally in a folder called 'PubMedia'.
 
-*insert image of backgrounds*
+![SEPS_BLUE_2425SEMB1_16-9.png](SEPS_BLUE_2425SEMB1_16-9.png)
 
 ## Wallpaper Content
 
 The wallpaper design is up to you, but it should always include the following useful contacts the University of Lincoln logo, and the image version.
-There are templates for wallpapers in the SoCSTech Canva organisation.
 
 | Department                        | Contact                  |
 |-----------------------------------|--------------------------|

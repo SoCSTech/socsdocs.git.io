@@ -8,6 +8,7 @@
             <noindex-content>true</noindex-content>
             <offline-docs>false</offline-docs>
         </variables>
+        <llms-txt single-file="true"/>
     </build-profile>
     <build-profile instance="ti">
         <variables></variables>

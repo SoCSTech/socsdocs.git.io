@@ -2,7 +2,7 @@
 
 The office needs to be manned from 8am to 5:30pm, but we only do 7.5-hour shifts. This means that we need someone to be on a 8am to 4:30pm shift each day. To keep track of who is doing these days, we use staff rotas.
 
-For these rotas, we use 'Shifts' on Microsoft Teams.
+When there is enough staff for it to be scheduled around, we make use of 'Shifts' on Microsoft Teams.
 
 ![image_40.png](image_40.png)
 

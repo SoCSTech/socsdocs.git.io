@@ -5,6 +5,7 @@ Therefore, it is imperative that we ensure these systems are working correctly -
 
 ## Gotchas!
 * **Due to the fact that we do not manage our AV directly, we are at the mercy of DT (formally known as ICT) to fix it for us.**
+* If the head unit/controller is alive, but hasn't been turned on - it will auto shutdown the equipment.
 
 ## Aims
 To ensure that the AV is working correctly in our labs - and identify any issues that will need raising with DT.
