@@ -36,8 +36,14 @@
         <toc-element topic="Staff-Rotas.md"/>
     </toc-element>
     <toc-element topic="Devices.md">
-        <toc-element topic="VR-Headsets.md"/>
-        <toc-element topic="Phones.md"/>
+        <toc-element topic="VR-Headsets.md">
+            <toc-element topic="Using-The-Headset.md"/>
+            <toc-element topic="VR-Troubleshooting.md"/>
+        </toc-element>
+        <toc-element topic="Phones.md">
+            <toc-element topic="Offer-Holder-Open-Days.md"/>
+            <toc-element topic="Setting-Up.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="Day-to-Day-Checks.md">
         <toc-element topic="PC-Startups-and-DeepFreeze.md"/>
@@ -68,6 +74,7 @@
             <toc-element topic="CloneZilla-Server-Imaging.md"/>
             <toc-element topic="CloneZilla-P2P-Imaging.md"/>
         </toc-element>
+        <toc-element topic="Setting-Up-PC-Post-Imaging.md"/>
     </toc-element>
     <toc-element topic="DeepFreeze.md">
         <toc-element topic="Deploying-DeepFreeze.md"/>

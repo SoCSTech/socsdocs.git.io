@@ -1,7 +1,7 @@
 # Splashtop
 
 Splashtop is the service we use for remote access to lab machines. Currently, we have a suite of machines dedicated
-to run Splashtop at the front of Labs 1A and 2B (hopefully this changes in the future).
+to run Splashtop at the front of Labs 1A and 2B. Please see the [DT website](https://digitaltechnologies.lincoln.ac.uk/2024/05/09/how-to-splashtop/) for more information.
 
 ## Installing Splashtop
 Splashtop is installed with an installer which can be provided by the technical resource manager. It should be
