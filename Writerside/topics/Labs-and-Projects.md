@@ -1,3 +1,3 @@
 # Labs and Projects
 
-Start typing here...
+This section is for physical things and rooms that we support. 

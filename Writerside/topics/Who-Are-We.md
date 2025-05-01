@@ -21,7 +21,6 @@ Correct as of publication time.
 | Name           | Role                        | Key Responsibilities                           | Grade |
 |----------------|-----------------------------|------------------------------------------------|-------|
 | Matt Ashton    | Technical Resource Manager  | Infrastructure/HPC, Budget and Team Management | 7     |
-| Florence Noble | Computing Technician        | Operations, Administrative and Games Computing | 5     |
 | Josh Cooper    | Computing Technician        | Development, Robotics and LAR/LIAT Support     | 5     |
 
 ### Former Computing Technicians
@@ -30,6 +29,9 @@ Correct as of publication time.
 |----------------|-----------------------------|------------------------------------------------|
 | Ollie Grooby   | Senior Computing Technician | DevOps, Second Line Support and Team Lead      |
 | Alfie Hughes   | Computing Technician        | Networks, Cloud, Desktops and Compliance       |
+| Florence Noble | Computing Technician        | Operations, Administrative and Games Computing |
+
+
 
 
 
