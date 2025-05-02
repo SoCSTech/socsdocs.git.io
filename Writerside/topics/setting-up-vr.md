@@ -1,12 +1,16 @@
 # Setting Up
 
-## TL;DR
+<tldr>
+
+**TL;DR**
 
 - Login with shared account
 - Download apps as required
 - Delete user projects
 - Enable dev mode
 - Reset zones
+
+</tldr>
 
 ## User Account
 
