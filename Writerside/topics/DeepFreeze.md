@@ -14,3 +14,6 @@ Many a technician ago, the School began to have some issues with its open-access
 This is great as it means everything we do as school that could potentially break a corporate setup, will only really affect a single machine - and this gives us a greater degree of flexibility for running our modules.
 
 However, issues with plagiarism, compromised and stolen accounts, and, illicit materials started to appear. DeepFreeze negates this, as every time a machine is restarted, it reverts to a clean state. DeepFreeze will automatically restart a machine to apply this on log out, or, whenever a idle timer is hit.
+
+> Please note, when introducing a class to using the labs for the first time, they should be introduced to Deep Freeze and explained that they **must logout/shutdown/reboot the computer after use**.
+{style="note"}
