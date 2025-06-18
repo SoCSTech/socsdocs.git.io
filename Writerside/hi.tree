@@ -82,6 +82,7 @@
         <toc-element topic="Deploying-DeepFreeze.md"/>
         <toc-element topic="Policies.md"/>
         <toc-element topic="Computers.md"/>
+        <toc-element topic="Custom-Applications.md"/>
     </toc-element>
     <toc-element topic="Splashtop.md"/>
     <toc-element topic="Staff-Research-Device-Setup.md">
@@ -111,4 +112,12 @@
         <toc-element topic="INB2102-2B.md"/>
         <toc-element topic="INB2305-2C.md"/>
     </toc-element>
+    <toc-element topic="Lab-Guidance.md">
+        <toc-element topic="Lab-Rules.md"/>
+        <toc-element topic="Lab-Health-and-Safety.md"/>
+        <toc-element topic="Attendance-Monitoring.md"/>
+        <toc-element topic="How-to-use-Docker-and-Dev-Containers-for-Labs-and-Workshops.md"/>
+        <toc-element topic="Troubleshooting-a-Blank-Monitor.md"/>
+    </toc-element>
+    <toc-element topic="Key-Contacts.md"/>
 </instance-profile>
